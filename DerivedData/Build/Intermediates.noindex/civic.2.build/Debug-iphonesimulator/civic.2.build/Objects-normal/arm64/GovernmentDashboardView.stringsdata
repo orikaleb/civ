@@ -1,0 +1,280 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Dashboard/GovernmentDashboardView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Government",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 100
+        }
+      },
+      {
+        "comment": "",
+        "key": "Performance Dashboard",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Last Updated",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "Aug 2025",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 118
+        }
+      },
+      {
+        "comment": "",
+        "key": "Key Performance Indicators",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "Filter by Category",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1269
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analytics & Insights",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 1295
+        }
+      },
+      {
+        "comment": "",
+        "key": "Health Sector Performance",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1305
+        }
+      },
+      {
+        "comment": "",
+        "key": "72.5",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1311
+        }
+      },
+      {
+        "comment": "",
+        "key": "+2.3%",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1315
+        }
+      },
+      {
+        "comment": "",
+        "key": "Economic Performance",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1369
+        }
+      },
+      {
+        "comment": "",
+        "key": "78.3",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1375
+        }
+      },
+      {
+        "comment": "",
+        "key": "+1.8%",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1379
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sector Distribution",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1425
+        }
+      },
+      {
+        "comment": "",
+        "key": "100%",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1431
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1435
+        }
+      },
+      {
+        "comment": "",
+        "key": "Citizen Feedback",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1471
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share your feedback...",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 1488
+        }
+      },
+      {
+        "comment": "",
+        "key": "₵",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1576
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1594
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1618
+        }
+      },
+      {
+        "comment": "",
+        "key": "Government Actions",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 1946
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reasons for Decline",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 1946
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2020
+        }
+      },
+      {
+        "comment": "",
+        "key": "Details",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2104
+        }
+      },
+      {
+        "comment": "",
+        "key": "Content",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 2079
+        }
+      },
+      {
+        "comment": "",
+        "key": "Charts",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2080
+        }
+      },
+      {
+        "comment": "",
+        "key": "Articles",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2081
+        }
+      },
+      {
+        "comment": "",
+        "key": "Images",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2082
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analytics & Trends",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 2110
+        }
+      },
+      {
+        "comment": "",
+        "key": "Related Articles",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 2133
+        }
+      },
+      {
+        "comment": "",
+        "key": "Visual Documentation",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 2145
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2706
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2761
+        }
+      }
+    ]
+  },
+  "version": 1
+}

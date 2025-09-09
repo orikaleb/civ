@@ -1,0 +1,56 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Authentication/AuthenticationView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "CivicVoice",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your voice in democracy",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 33
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mode",
+        "location": {
+          "startingColumn": 40,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign In",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign Up",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Or continue with",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 81
+        }
+      }
+    ]
+  },
+  "version": 1
+}

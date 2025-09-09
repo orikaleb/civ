@@ -1,0 +1,56 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Rating/RatingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Rate Government",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rate Government Performance",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share your opinion on how the government is performing in different areas. Your ratings help inform policy decisions.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rate from 1 to 5 stars",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fine-tune rating:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Community Ratings",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 145
+        }
+      }
+    ]
+  },
+  "version": 1
+}

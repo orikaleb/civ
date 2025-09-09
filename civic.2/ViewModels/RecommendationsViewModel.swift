@@ -1,6 +1,41 @@
 import Foundation
 import Combine
 
+// MARK: - Recommendation Filter Enum
+enum RecommendationFilter: String, CaseIterable {
+    case all = "all"
+    case pending = "pending"
+    case underReview = "under_review"
+    case approved = "approved"
+    case rejected = "rejected"
+    case implemented = "implemented"
+    case inProgress = "in_progress"
+    
+    var displayName: String {
+        switch self {
+        case .all: return "All"
+        case .pending: return "Pending"
+        case .underReview: return "Under Review"
+        case .approved: return "Approved"
+        case .rejected: return "Rejected"
+        case .implemented: return "Implemented"
+        case .inProgress: return "In Progress"
+        }
+    }
+    
+    var icon: String {
+        switch self {
+        case .all: return "list.bullet"
+        case .pending: return "clock.fill"
+        case .underReview: return "eye.fill"
+        case .approved: return "checkmark.circle.fill"
+        case .rejected: return "xmark.circle.fill"
+        case .implemented: return "checkmark.seal.fill"
+        case .inProgress: return "arrow.clockwise.circle.fill"
+        }
+    }
+}
+
 class RecommendationsViewModel: ObservableObject {
     @Published var recommendations: [Recommendation] = []
     @Published var filteredRecommendations: [Recommendation] = []
@@ -17,9 +52,9 @@ class RecommendationsViewModel: ObservableObject {
         loadRecommendations()
         
         // Filter recommendations when search text or filters change
-        Publishers.CombineLatest3($recommendations, $searchText, $selectedCategory)
-            .map { [weak self] recommendations, searchText, category in
-                self?.filterRecommendations(recommendations, searchText: searchText, category: category) ?? []
+        Publishers.CombineLatest3($recommendations, $searchText, $selectedFilter)
+            .map { [weak self] recommendations, searchText, filter in
+                self?.filterRecommendations(recommendations, searchText: searchText, filter: filter) ?? []
             }
             .assign(to: &$filteredRecommendations)
     }
@@ -91,17 +126,12 @@ class RecommendationsViewModel: ObservableObject {
         createRecommendation(newRecommendation)
     }
     
-    private func filterRecommendations(_ recommendations: [Recommendation], searchText: String, category: RecommendationCategory?) -> [Recommendation] {
+    private func filterRecommendations(_ recommendations: [Recommendation], searchText: String, filter: RecommendationFilter) -> [Recommendation] {
         var filtered = recommendations
         
-        // Filter by category
-        if let category = category {
-            filtered = filtered.filter { $0.category == category }
-        }
-        
         // Filter by status
-        if let status = selectedStatus {
-            filtered = filtered.filter { $0.status == status }
+        if filter != .all {
+            filtered = filtered.filter { $0.status.rawValue == filter.rawValue }
         }
         
         // Filter by search text

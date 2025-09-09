@@ -57,8 +57,10 @@ class MessagingViewModel: ObservableObject {
         
         // Update last message in chat
         if let index = chats.firstIndex(where: { $0.id == chat.id }) {
-            chats[index].lastMessage = message
-            chats[index].lastMessageAt = message.timestamp
+            var updatedChat = chats[index]
+            updatedChat.lastMessage = message
+            updatedChat.lastMessageAt = message.timestamp
+            chats[index] = updatedChat
         }
         
         // In a real app, this would send the message to the server

@@ -34,6 +34,7 @@ struct ProfileView: View {
                     StatsSection(user: user)
                     QuickActionsSection()
                     RecentActivitySection()
+                    UserPostsSection(user: user)
                     SettingsSection()
                     
                     // Admin Panel (only for admin users)
@@ -410,7 +411,7 @@ struct QuickActionsSection: View {
                     }
                     
                     QuickActionRow(
-                        icon: "hand.raised.fill",
+                        icon: "ballot.box.fill",
                         title: "View Active Polls",
                         subtitle: "Participate in community decisions",
                         color: .green,
@@ -955,6 +956,448 @@ struct AdminFeatureCard: View {
             .shadow(color: Color.black.opacity(0.05), radius: 4, x: 0, y: 2)
         }
         .buttonStyle(PlainButtonStyle())
+    }
+}
+
+struct UserPostsSection: View {
+    @EnvironmentObject var appViewModel: AppViewModel
+    let user: User
+    @State private var selectedTab: PostTab = .posts
+    @State private var userPosts: [Post] = []
+    @State private var userReplies: [Post] = []
+    @State private var userArticles: [Post] = []
+    
+    enum PostTab: String, CaseIterable {
+        case posts = "Posts"
+        case replies = "Replies"
+        case articles = "Articles"
+        
+        var icon: String {
+            switch self {
+            case .posts: return "square.and.pencil"
+            case .replies: return "bubble.left.and.bubble.right"
+            case .articles: return "doc.text"
+            }
+        }
+    }
+    
+    var body: some View {
+        CivicCard(themeMode: appViewModel.themeMode) {
+            VStack(alignment: .leading, spacing: 20) {
+                // Header
+                HStack {
+                    Image(systemName: "doc.text.fill")
+                        .foregroundColor(Color.appPrimary)
+                        .font(.title3)
+                    
+                    Text("Your Content")
+                        .font(.headline)
+                        .fontWeight(.semibold)
+                        .foregroundColor(.primary)
+                    
+                    Spacer()
+                    
+                    Button("See All") {
+                        // Navigate to full posts view
+                    }
+                    .font(.caption)
+                    .foregroundColor(.blue)
+                }
+                
+                // Tab selector
+                HStack(spacing: 0) {
+                    ForEach(PostTab.allCases, id: \.self) { tab in
+                        Button(action: {
+                            withAnimation(.easeInOut(duration: 0.2)) {
+                                selectedTab = tab
+                            }
+                        }) {
+                            VStack(spacing: 8) {
+                                HStack(spacing: 6) {
+                                    Image(systemName: tab.icon)
+                                        .font(.caption)
+                                    
+                                    Text(tab.rawValue)
+                                        .font(.caption)
+                                        .fontWeight(.medium)
+                                }
+                                .foregroundColor(selectedTab == tab ? .white : Color.appPrimary)
+                                .padding(.horizontal, 12)
+                                .padding(.vertical, 8)
+                                .background(
+                                    RoundedRectangle(cornerRadius: 12)
+                                        .fill(selectedTab == tab ? Color.appPrimary : Color.appPrimary.opacity(0.1))
+                                )
+                                
+                                // Count badge
+                                Text("\(getCount(for: tab))")
+                                    .font(.caption2)
+                                    .fontWeight(.semibold)
+                                    .foregroundColor(selectedTab == tab ? .white : .secondary)
+                                    .padding(.horizontal, 8)
+                                    .padding(.vertical, 2)
+                                    .background(
+                                        Capsule()
+                                            .fill(selectedTab == tab ? Color.white.opacity(0.2) : Color.secondary.opacity(0.1))
+                                    )
+                            }
+                        }
+                        .buttonStyle(PlainButtonStyle())
+                        
+                        if tab != PostTab.allCases.last {
+                            Spacer()
+                        }
+                    }
+                }
+                
+                // Content based on selected tab
+                VStack(spacing: 12) {
+                    switch selectedTab {
+                    case .posts:
+                        PostsListView(posts: userPosts)
+                    case .replies:
+                        RepliesListView(replies: userReplies)
+                    case .articles:
+                        ArticlesListView(articles: userArticles)
+                    }
+                }
+                .frame(minHeight: 120)
+            }
+        }
+        .onAppear {
+            loadUserContent()
+        }
+    }
+    
+    private func getCount(for tab: PostTab) -> Int {
+        switch tab {
+        case .posts: return userPosts.count
+        case .replies: return userReplies.count
+        case .articles: return userArticles.count
+        }
+    }
+    
+    private func loadUserContent() {
+        // Mock data for demonstration
+        userPosts = [
+            Post(
+                id: UUID().uuidString,
+                userId: user.id,
+                username: user.username,
+                userProfileImage: user.profileImage,
+                content: "Just attended an amazing town hall meeting about infrastructure improvements. The community input was incredible!",
+                postType: .text,
+                likes: 24,
+                comments: 8,
+                shares: 3,
+                createdAt: Date().addingTimeInterval(-3600)
+            ),
+            Post(
+                id: UUID().uuidString,
+                userId: user.id,
+                username: user.username,
+                userProfileImage: user.profileImage,
+                content: "Sharing my thoughts on the new public transportation proposal. What do you think about the proposed routes?",
+                postType: .text,
+                likes: 15,
+                comments: 12,
+                shares: 5,
+                createdAt: Date().addingTimeInterval(-7200)
+            )
+        ]
+        
+        userReplies = [
+            Post(
+                id: UUID().uuidString,
+                userId: user.id,
+                username: user.username,
+                userProfileImage: user.profileImage,
+                content: "Great point about the environmental impact! I think we should also consider the economic benefits for local businesses.",
+                postType: .text,
+                likes: 8,
+                comments: 2,
+                shares: 1,
+                createdAt: Date().addingTimeInterval(-1800)
+            )
+        ]
+        
+        userArticles = [
+            Post(
+                id: UUID().uuidString,
+                userId: user.id,
+                username: user.username,
+                userProfileImage: user.profileImage,
+                content: "A comprehensive analysis of our city's renewable energy initiatives and their impact on the community. This article explores the benefits, challenges, and future prospects of our green energy transition.",
+                postType: .recommendation,
+                likes: 45,
+                comments: 18,
+                shares: 12,
+                createdAt: Date().addingTimeInterval(-86400)
+            )
+        ]
+    }
+}
+
+struct PostsListView: View {
+    let posts: [Post]
+    
+    var body: some View {
+        VStack(spacing: 12) {
+            if posts.isEmpty {
+                EmptyStateView(
+                    icon: "square.and.pencil",
+                    title: "No Posts Yet",
+                    subtitle: "Share your thoughts with the community"
+                )
+            } else {
+                ForEach(posts.prefix(3)) { post in
+                    PostPreviewCard(post: post)
+                }
+            }
+        }
+    }
+}
+
+struct RepliesListView: View {
+    let replies: [Post]
+    
+    var body: some View {
+        VStack(spacing: 12) {
+            if replies.isEmpty {
+                EmptyStateView(
+                    icon: "bubble.left.and.bubble.right",
+                    title: "No Replies Yet",
+                    subtitle: "Engage with community discussions"
+                )
+            } else {
+                ForEach(replies.prefix(3)) { reply in
+                    ReplyPreviewCard(reply: reply)
+                }
+            }
+        }
+    }
+}
+
+struct ArticlesListView: View {
+    let articles: [Post]
+    
+    var body: some View {
+        VStack(spacing: 12) {
+            if articles.isEmpty {
+                EmptyStateView(
+                    icon: "doc.text",
+                    title: "No Articles Yet",
+                    subtitle: "Write in-depth articles about important topics"
+                )
+            } else {
+                ForEach(articles.prefix(3)) { article in
+                    ArticlePreviewCard(article: article)
+                }
+            }
+        }
+    }
+}
+
+struct PostPreviewCard: View {
+    let post: Post
+    
+    var body: some View {
+        VStack(alignment: .leading, spacing: 8) {
+            HStack {
+                Text(post.postType.rawValue.capitalized)
+                    .font(.caption2)
+                    .fontWeight(.medium)
+                    .foregroundColor(.blue)
+                    .padding(.horizontal, 8)
+                    .padding(.vertical, 4)
+                    .background(Color.blue.opacity(0.1))
+                    .cornerRadius(6)
+                
+                Spacer()
+                
+                Text(post.createdAt, style: .relative)
+                    .font(.caption2)
+                    .foregroundColor(.secondary)
+            }
+            
+            Text(post.content)
+                .font(.body)
+                .foregroundColor(.primary)
+                .lineLimit(3)
+                .multilineTextAlignment(.leading)
+            
+            HStack(spacing: 16) {
+                HStack(spacing: 4) {
+                    Image(systemName: "heart.fill")
+                        .font(.caption)
+                        .foregroundColor(.red)
+                    Text("\(post.likes)")
+                        .font(.caption)
+                        .foregroundColor(.secondary)
+                }
+                
+                HStack(spacing: 4) {
+                    Image(systemName: "bubble.left")
+                        .font(.caption)
+                        .foregroundColor(.blue)
+                    Text("\(post.comments)")
+                        .font(.caption)
+                        .foregroundColor(.secondary)
+                }
+                
+                HStack(spacing: 4) {
+                    Image(systemName: "square.and.arrow.up")
+                        .font(.caption)
+                        .foregroundColor(.green)
+                    Text("\(post.shares)")
+                        .font(.caption)
+                        .foregroundColor(.secondary)
+                }
+                
+                Spacer()
+            }
+        }
+        .padding(12)
+        .background(Color(.systemGray6))
+        .cornerRadius(12)
+    }
+}
+
+struct ReplyPreviewCard: View {
+    let reply: Post
+    
+    var body: some View {
+        VStack(alignment: .leading, spacing: 8) {
+            HStack {
+                Image(systemName: "bubble.left.fill")
+                    .font(.caption)
+                    .foregroundColor(.blue)
+                
+                Text("Reply")
+                    .font(.caption)
+                    .fontWeight(.medium)
+                    .foregroundColor(.blue)
+                
+                Spacer()
+                
+                Text(reply.createdAt, style: .relative)
+                    .font(.caption2)
+                    .foregroundColor(.secondary)
+            }
+            
+            Text(reply.content)
+                .font(.body)
+                .foregroundColor(.primary)
+                .lineLimit(2)
+                .multilineTextAlignment(.leading)
+            
+            HStack(spacing: 16) {
+                HStack(spacing: 4) {
+                    Image(systemName: "heart.fill")
+                        .font(.caption)
+                        .foregroundColor(.red)
+                    Text("\(reply.likes)")
+                        .font(.caption)
+                        .foregroundColor(.secondary)
+                }
+                
+                Spacer()
+            }
+        }
+        .padding(12)
+        .background(Color(.systemGray6))
+        .cornerRadius(12)
+    }
+}
+
+struct ArticlePreviewCard: View {
+    let article: Post
+    
+    var body: some View {
+        VStack(alignment: .leading, spacing: 8) {
+            HStack {
+                Image(systemName: "doc.text.fill")
+                    .font(.caption)
+                    .foregroundColor(.orange)
+                
+                Text("Article")
+                    .font(.caption)
+                    .fontWeight(.medium)
+                    .foregroundColor(.orange)
+                
+                Spacer()
+                
+                Text(article.createdAt, style: .relative)
+                    .font(.caption2)
+                    .foregroundColor(.secondary)
+            }
+            
+            Text(article.content)
+                .font(.body)
+                .foregroundColor(.primary)
+                .lineLimit(3)
+                .multilineTextAlignment(.leading)
+            
+            HStack(spacing: 16) {
+                HStack(spacing: 4) {
+                    Image(systemName: "heart.fill")
+                        .font(.caption)
+                        .foregroundColor(.red)
+                    Text("\(article.likes)")
+                        .font(.caption)
+                        .foregroundColor(.secondary)
+                }
+                
+                HStack(spacing: 4) {
+                    Image(systemName: "bubble.left")
+                        .font(.caption)
+                        .foregroundColor(.blue)
+                    Text("\(article.comments)")
+                        .font(.caption)
+                        .foregroundColor(.secondary)
+                }
+                
+                HStack(spacing: 4) {
+                    Image(systemName: "square.and.arrow.up")
+                        .font(.caption)
+                        .foregroundColor(.green)
+                    Text("\(article.shares)")
+                        .font(.caption)
+                        .foregroundColor(.secondary)
+                }
+                
+                Spacer()
+            }
+        }
+        .padding(12)
+        .background(Color(.systemGray6))
+        .cornerRadius(12)
+    }
+}
+
+struct EmptyStateView: View {
+    let icon: String
+    let title: String
+    let subtitle: String
+    
+    var body: some View {
+        VStack(spacing: 12) {
+            Image(systemName: icon)
+                .font(.title2)
+                .foregroundColor(.secondary)
+            
+            Text(title)
+                .font(.headline)
+                .fontWeight(.medium)
+                .foregroundColor(.primary)
+            
+            Text(subtitle)
+                .font(.caption)
+                .foregroundColor(.secondary)
+                .multilineTextAlignment(.center)
+        }
+        .frame(maxWidth: .infinity)
+        .padding(.vertical, 20)
     }
 }
 

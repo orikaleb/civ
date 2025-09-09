@@ -1,0 +1,104 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Feed/FeedView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "CivicVoice",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 314
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 330
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 346
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 506
+        }
+      },
+      {
+        "comment": "",
+        "key": "Performance Reference",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 566
+        }
+      },
+      {
+        "comment": "",
+        "key": "₵",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 588
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 614
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 624
+        }
+      },
+      {
+        "comment": "",
+        "key": "Comments",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 659
+        }
+      },
+      {
+        "comment": "",
+        "key": "Comments for: %@",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 649
+        }
+      },
+      {
+        "comment": "",
+        "key": "Comments functionality coming soon...",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 653
+        }
+      }
+    ]
+  },
+  "version": 1
+}

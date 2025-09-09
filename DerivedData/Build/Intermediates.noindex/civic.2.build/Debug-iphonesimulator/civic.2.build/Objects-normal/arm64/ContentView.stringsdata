@@ -1,0 +1,32 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "CivicVoice App",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "App is running successfully!",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Go to Main App",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 26
+        }
+      }
+    ]
+  },
+  "version": 1
+}

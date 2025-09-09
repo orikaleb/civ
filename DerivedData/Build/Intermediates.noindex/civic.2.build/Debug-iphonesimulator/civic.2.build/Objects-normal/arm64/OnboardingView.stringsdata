@@ -1,0 +1,104 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Onboarding/OnboardingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Skip",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get Started",
+        "location": {
+          "startingColumn": 63,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 103
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcome to",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 159
+        }
+      },
+      {
+        "comment": "",
+        "key": "CivicVoice",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 167
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your voice matters in shaping the future of our community. Rate, vote, and recommend to make a difference.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 175
+        }
+      },
+      {
+        "comment": "",
+        "key": "What You Can Do",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 231
+        }
+      },
+      {
+        "comment": "",
+        "key": "Discover the powerful features that put democracy in your hands",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 238
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld interest%@ selected",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 437
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose Your Interests",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 394
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select topics that matter most to you. We'll personalize your experience based on your interests.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 401
+        }
+      }
+    ]
+  },
+  "version": 1
+}

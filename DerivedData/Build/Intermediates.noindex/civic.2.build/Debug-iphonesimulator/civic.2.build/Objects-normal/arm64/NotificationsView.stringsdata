@@ -1,0 +1,24 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Notifications/NotificationsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Notifications",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 12
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,12 +1,10 @@
 import SwiftUI
 
 extension Color {
-    static let primaryColor = Color("PrimaryColor")
+    // App theme colors - using auto-generated symbols from Assets.xcassets
+    // appPrimary and appSecondary are auto-generated from AppPrimaryColor and AppSecondaryColor assets
     
-    // App theme colors
-    static let appPrimary = Color("PrimaryColor")
-    static let appSecondary = Color("SecondaryColor")
-    static let appAccent = Color("AccentColor")
+    // Dark theme colors - using auto-generated darkBackground from Assets.xcassets
     
     // Dynamic background colors based on theme
     static func dynamicBackground(for themeMode: ThemeMode) -> Color {

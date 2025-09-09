@@ -1,0 +1,30 @@
+"/Users/calebotchere/Desktop/civic.2/civic.2/Views/Components/ThemeToggleButton.swift":
+  const-values: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton.swiftconstvalues"
+  diagnostics: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton.dia"
+  object: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton.o"
+  swift-dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton.swiftdeps"
+  dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton.d"
+"/Users/calebotchere/Desktop/civic.2/civic.2/Views/Search/SearchView.swift":
+  diagnostics: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView.dia"
+  dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView.d"
+  const-values: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView.swiftconstvalues"
+  object: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView.o"
+  swift-dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView.swiftdeps"
+"/Users/calebotchere/Desktop/civic.2/civic.2/ViewModels/FeedViewModel.swift":
+  const-values: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel.swiftconstvalues"
+  object: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel.o"
+  diagnostics: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel.dia"
+  dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel.d"
+  swift-dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel.swiftdeps"
+"/Users/calebotchere/Desktop/civic.2/civic.2/ViewModels/RecommendationsViewModel.swift":
+  const-values: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel.swiftconstvalues"
+  dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel.d"
+  object: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel.o"
+  swift-dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel.swiftdeps"
+  diagnostics: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel.dia"
+"/Users/calebotchere/Desktop/civic.2/civic.2/Views/Live/LiveView.swift":
+  diagnostics: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView.dia"
+  dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView.d"
+  const-values: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView.swiftconstvalues"
+  object: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView.o"
+  swift-dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView.swiftdeps"

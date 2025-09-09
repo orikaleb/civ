@@ -1,0 +1,120 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Search/SearchView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search people and posts",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "#%@",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 108
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Searches",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 137
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 141
+        }
+      },
+      {
+        "comment": "",
+        "key": "People",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 181
+        }
+      },
+      {
+        "comment": "",
+        "key": "Posts",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "Follow",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 260
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 291
+        }
+      },
+      {
+        "comment": "",
+        "key": "Follow",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 375
+        }
+      },
+      {
+        "comment": "",
+        "key": "2h ago",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 417
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 430
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 438
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,40 +1,5 @@
 import SwiftUI
 
-// MARK: - Recommendation Filter Enum
-enum RecommendationFilter: String, CaseIterable {
-    case all = "all"
-    case pending = "pending"
-    case underReview = "under_review"
-    case approved = "approved"
-    case rejected = "rejected"
-    case implemented = "implemented"
-    case inProgress = "in_progress"
-    
-    var displayName: String {
-        switch self {
-        case .all: return "All"
-        case .pending: return "Pending"
-        case .underReview: return "Under Review"
-        case .approved: return "Approved"
-        case .rejected: return "Rejected"
-        case .implemented: return "Implemented"
-        case .inProgress: return "In Progress"
-        }
-    }
-    
-    var icon: String {
-        switch self {
-        case .all: return "list.bullet"
-        case .pending: return "clock.fill"
-        case .underReview: return "eye.fill"
-        case .approved: return "checkmark.circle.fill"
-        case .rejected: return "xmark.circle.fill"
-        case .implemented: return "checkmark.seal.fill"
-        case .inProgress: return "arrow.clockwise.circle.fill"
-        }
-    }
-}
-
 struct RecommendationsView: View {
     @StateObject private var viewModel = RecommendationsViewModel()
     @EnvironmentObject var appViewModel: AppViewModel
@@ -65,7 +30,7 @@ struct RecommendationsView: View {
             HStack(spacing: 12) {
                 ForEach(RecommendationFilter.allCases, id: \.self) { filter in
                     FilterChip(
-                        title: filter.rawValue,
+                        title: filter.displayName,
                         isSelected: viewModel.selectedFilter == filter
                     ) {
                         viewModel.selectedFilter = filter

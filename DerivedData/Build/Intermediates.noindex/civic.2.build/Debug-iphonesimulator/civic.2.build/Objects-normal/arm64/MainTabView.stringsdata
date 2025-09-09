@@ -1,0 +1,48 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Main/MainTabView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 20
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dashboard",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Polls",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 60
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,120 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Polls/PollsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Polls",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "Poll Details",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 148
+        }
+      },
+      {
+        "comment": "",
+        "key": "Confirm Vote",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 150
+        }
+      },
+      {
+        "comment": "",
+        "key": "Active",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Created %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 89
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ends %@",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Options",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 105
+        }
+      },
+      {
+        "comment": "",
+        "key": "Results",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 134
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total votes: %lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 138
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 151
+        }
+      },
+      {
+        "comment": "",
+        "key": "Vote",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 152
+        }
+      },
+      {
+        "comment": "",
+        "key": "Are you sure you want to vote for '%@'? This action cannot be undone.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld votes",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 204
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 190
+        }
+      }
+    ]
+  },
+  "version": 1
+}

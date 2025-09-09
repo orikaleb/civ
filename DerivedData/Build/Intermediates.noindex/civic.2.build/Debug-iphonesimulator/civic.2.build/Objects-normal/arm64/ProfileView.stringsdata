@@ -1,0 +1,320 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Profile/ProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Profile",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading Profile...",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcome to CivicVoice",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sign in to access your profile and start engaging with your community",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get Started",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create new post",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": "@%@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 217
+        }
+      },
+      {
+        "comment": "",
+        "key": "Member since %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 221
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 233
+        }
+      },
+      {
+        "comment": "",
+        "key": "Interests",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 250
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your Activity",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 293
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quick Actions",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 383
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recent Activity",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 486
+        }
+      },
+      {
+        "comment": "",
+        "key": "See All",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 492
+        }
+      },
+      {
+        "comment": "",
+        "key": "Account",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 560
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 685
+        }
+      },
+      {
+        "comment": "",
+        "key": "Account",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 640
+        }
+      },
+      {
+        "comment": "",
+        "key": "Appearance",
+        "location": {
+          "startingColumn": 21,
+          "startingLine": 646
+        }
+      },
+      {
+        "comment": "",
+        "key": "Notifications",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 670
+        }
+      },
+      {
+        "comment": "",
+        "key": "App",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 676
+        }
+      },
+      {
+        "comment": "",
+        "key": "Edit Profile",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 641
+        }
+      },
+      {
+        "comment": "",
+        "key": "Change Password",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 642
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy Settings",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 643
+        }
+      },
+      {
+        "comment": "",
+        "key": "Theme",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 655
+        }
+      },
+      {
+        "comment": "",
+        "key": "Push Notifications",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 671
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email Notifications",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 672
+        }
+      },
+      {
+        "comment": "",
+        "key": "Poll Reminders",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 673
+        }
+      },
+      {
+        "comment": "",
+        "key": "About CivicVoice",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 677
+        }
+      },
+      {
+        "comment": "",
+        "key": "Terms of Service",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 678
+        }
+      },
+      {
+        "comment": "",
+        "key": "Privacy Policy",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 679
+        }
+      },
+      {
+        "comment": "",
+        "key": "Version 1.0.0",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 680
+        }
+      },
+      {
+        "comment": "",
+        "key": "Administrative Panel",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 712
+        }
+      },
+      {
+        "comment": "",
+        "key": "Manage",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 722
+        }
+      },
+      {
+        "comment": "",
+        "key": "Permissions",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 735
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quick Actions",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 761
+        }
+      },
+      {
+        "comment": "",
+        "key": "Administrative Dashboard",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 859
+        }
+      },
+      {
+        "comment": "",
+        "key": "Manage CivicVoice platform",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 863
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 915
+        }
+      }
+    ]
+  },
+  "version": 1
+}

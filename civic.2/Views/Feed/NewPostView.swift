@@ -1,5 +1,8 @@
 import SwiftUI
 
+// MARK: - Type Aliases
+typealias PostSubmissionHandler = (String, PostType, [String]?, Poll?, PerformanceReference?) -> Void
+
 struct NewPostView: View {
     @Environment(\.dismiss) private var dismiss
     @EnvironmentObject var appViewModel: AppViewModel
@@ -11,7 +14,7 @@ struct NewPostView: View {
     @State private var pollQuestion = ""
     @State private var pollOptions = ["", ""]
     
-    let onSubmit: (String, PostType, [String]?, Poll?, PerformanceReference?) -> Void
+    let onSubmit: PostSubmissionHandler
     
     var body: some View {
         NavigationView {

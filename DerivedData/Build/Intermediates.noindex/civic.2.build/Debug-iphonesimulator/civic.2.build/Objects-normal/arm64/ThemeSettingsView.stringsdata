@@ -1,0 +1,48 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Settings/ThemeSettingsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Appearance",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Appearance",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Choose how CivicVoice should appear. System will automatically match your device's appearance.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 40
+        }
+      },
+      {
+        "comment": "",
+        "key": "Current Theme",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your app is currently using the %@ theme.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 52
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,36 @@
+"/Users/calebotchere/Desktop/civic.2/civic.2/Views/Rating/RatingView.swift":
+  const-values: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView.swiftconstvalues"
+  dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView.d"
+  diagnostics: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView.dia"
+  swift-dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView.swiftdeps"
+  object: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView.o"
+"/Users/calebotchere/Desktop/civic.2/civic.2/Views/Profile/ProfileView.swift":
+  object: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView.o"
+  swift-dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView.swiftdeps"
+  const-values: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView.swiftconstvalues"
+  dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView.d"
+  diagnostics: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView.dia"
+"/Users/calebotchere/Desktop/civic.2/civic.2/Models/Notification.swift":
+  const-values: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification.swiftconstvalues"
+  object: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification.o"
+  dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification.d"
+  swift-dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification.swiftdeps"
+  diagnostics: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification.dia"
+"/Users/calebotchere/Desktop/civic.2/civic.2/Views/Settings/ThemeSettingsView.swift":
+  diagnostics: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView.dia"
+  dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView.d"
+  swift-dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView.swiftdeps"
+  const-values: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView.swiftconstvalues"
+  object: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView.o"
+"/Users/calebotchere/Desktop/civic.2/civic.2/Models/Poll.swift":
+  diagnostics: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll.dia"
+  const-values: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll.swiftconstvalues"
+  object: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll.o"
+  dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll.d"
+  swift-dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll.swiftdeps"
+"/Users/calebotchere/Desktop/civic.2/civic.2/Views/Notifications/NotificationsView.swift":
+  const-values: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView.swiftconstvalues"
+  diagnostics: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView.dia"
+  object: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView.o"
+  dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView.d"
+  swift-dependencies: "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView.swiftdeps"

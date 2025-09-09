@@ -1,0 +1,88 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Live/LiveView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Live",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 13
+        }
+      },
+      {
+        "comment": "",
+        "key": "All",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "LIVE",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 142
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld watching",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 179
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 203
+        }
+      },
+      {
+        "comment": "",
+        "key": "Live Stream",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 236
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stream would play here",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 241
+        }
+      },
+      {
+        "comment": "",
+        "key": "Live Now",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 266
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 274
+        }
+      },
+      {
+        "comment": "",
+        "key": "Viewers",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 277
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,88 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Main/HomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "CivicVoice",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Stay informed and make your voice heard. Check out the latest polls and community updates below.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcome back, %@!",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "See All",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "See All View",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 136
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld votes",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 162
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ends %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 173
+        }
+      },
+      {
+        "comment": "",
+        "key": "Active",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 181
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sponsored",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 309
+        }
+      },
+      {
+        "comment": "",
+        "key": "by %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 373
+        }
+      }
+    ]
+  },
+  "version": 1
+}

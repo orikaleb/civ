@@ -1,0 +1,40 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Assets/AppIcon.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "CivicVoice App Icon",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 14
+        }
+      },
+      {
+        "comment": "",
+        "key": "60x60",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "120x120",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "180x180",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 34
+        }
+      }
+    ]
+  },
+  "version": 1
+}

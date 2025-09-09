@@ -26,7 +26,7 @@ struct MainTabView: View {
                 
                 GovernmentDashboardView()
                     .tabItem {
-                        Image(systemName: "chart.bar.fill")
+                        Image(systemName: "building.columns.fill")
                         Text("Dashboard")
                     }
                     .transition(.asymmetric(
@@ -46,7 +46,7 @@ struct MainTabView: View {
                 
                 PollsView()
                     .tabItem {
-                        Image(systemName: "checkmark.circle.fill")
+                        Image(systemName: "ballot.box.fill")
                         Text("Polls")
                     }
                     .transition(.asymmetric(

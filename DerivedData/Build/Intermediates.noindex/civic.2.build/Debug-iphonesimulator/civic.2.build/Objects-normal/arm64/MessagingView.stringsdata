@@ -1,0 +1,80 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Messaging/MessagingView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Messages",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chat",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 21
+        }
+      },
+      {
+        "comment": "",
+        "key": "Back",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 15
+        }
+      },
+      {
+        "comment": "",
+        "key": "Messages",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "1",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 144
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type a message...",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 183
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Chat",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 278
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search users...",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 293
+        }
+      }
+    ]
+  },
+  "version": 1
+}

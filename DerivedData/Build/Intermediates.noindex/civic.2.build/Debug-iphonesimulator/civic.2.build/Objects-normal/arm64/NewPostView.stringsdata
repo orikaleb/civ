@@ -1,0 +1,168 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Feed/NewPostView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "New Post",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 26
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "What's happening in your community?",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share your thoughts...",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld/280",
+        "location": {
+          "startingColumn": 14,
+          "startingLine": 192
+        }
+      },
+      {
+        "comment": "",
+        "key": "Selected Images",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 259
+        }
+      },
+      {
+        "comment": "",
+        "key": "Remove All",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 265
+        }
+      },
+      {
+        "comment": "",
+        "key": "Poll Preview",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 298
+        }
+      },
+      {
+        "comment": "",
+        "key": "0%",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 315
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create Poll",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 394
+        }
+      },
+      {
+        "comment": "",
+        "key": "Poll Question",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 341
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter your question...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 345
+        }
+      },
+      {
+        "comment": "",
+        "key": "Options",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 355
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Option",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 361
+        }
+      },
+      {
+        "comment": "",
+        "key": "Option %lld",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 373
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 398
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 404
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select Images",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 458
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 462
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 468
+        }
+      }
+    ]
+  },
+  "version": 1
+}

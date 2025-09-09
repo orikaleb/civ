@@ -1,0 +1,72 @@
+{
+  "source": "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Components/CivicCard.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Light Shadow",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Subtle shadow for minimal depth.",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Medium Shadow",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Standard shadow for most cards.",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Heavy Shadow",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enhanced depth for important cards.",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Premium Shadow",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 184
+        }
+      },
+      {
+        "comment": "",
+        "key": "Floating Shadow",
+        "location": {
+          "startingColumn": 1,
+          "startingLine": 184
+        }
+      }
+    ]
+  },
+  "version": 1
+}

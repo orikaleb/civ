@@ -115,20 +115,21 @@ struct FeedView: View {
     }
     
     private var filterTabsSection: some View {
-        HStack(spacing: 0) {
-            ForEach(FeedFilter.allCases, id: \.self) { filter in
-                FeedFilterChip(
-                    title: filter.rawValue,
-                    isSelected: viewModel.selectedFilter == filter
-                ) {
-                    withAnimation(.easeInOut(duration: 0.3)) {
-                        viewModel.selectedFilter = filter
+        ScrollView(.horizontal, showsIndicators: false) {
+            HStack(spacing: 12) {
+                ForEach(FeedFilter.allCases, id: \.self) { filter in
+                    FeedFilterChip(
+                        title: filter.displayName,
+                        isSelected: viewModel.selectedFilter == filter
+                    ) {
+                        withAnimation(.easeInOut(duration: 0.3)) {
+                            viewModel.selectedFilter = filter
+                        }
                     }
                 }
-                .frame(maxWidth: .infinity)
             }
+            .padding(.horizontal, 16)
         }
-        .padding(.horizontal, 16)
         .padding(.vertical, 12)
         .background(Color.dynamicSecondaryBackground(for: appViewModel.themeMode))
         .overlay(
@@ -172,49 +173,21 @@ struct FeedFilterChip: View {
     var body: some View {
         Button(action: action) {
             Text(title)
-                .font(.subheadline)
-                .fontWeight(.semibold)
+                .font(.system(size: 14, weight: .medium, design: .default))
                 .foregroundColor(isSelected ? .white : Color.appPrimary)
-                .padding(.horizontal, 12)
-                .padding(.vertical, 10)
+                .padding(.horizontal, 16)
+                .padding(.vertical, 8)
+                .frame(minWidth: 60)
                 .background(
-                    RoundedRectangle(cornerRadius: 22)
-                        .fill(isSelected ? Color.appPrimary : Color.appPrimary.opacity(0.08))
-                )
-                // Enhanced shadows for filter chips
-                .shadow(
-                    color: Color.black.opacity(isSelected ? 0.12 : 0.04),
-                    radius: isSelected ? 8 : 4,
-                    x: 0,
-                    y: isSelected ? 3 : 1
-                )
-                .shadow(
-                    color: Color.black.opacity(isSelected ? 0.06 : 0.02),
-                    radius: isSelected ? 4 : 2,
-                    x: 0,
-                    y: isSelected ? 1 : 0
-                )
-                .overlay(
-                    RoundedRectangle(cornerRadius: 22)
-                        .stroke(
-                            LinearGradient(
-                                colors: [
-                                    Color.white.opacity(isSelected ? 0.25 : 0.1),
-                                    Color.clear,
-                                    Color.black.opacity(isSelected ? 0.1 : 0.05)
-                                ],
-                                startPoint: .topLeading,
-                                endPoint: .bottomTrailing
-                            ),
-                            lineWidth: isSelected ? 0 : 1
+                    RoundedRectangle(cornerRadius: 20)
+                        .fill(isSelected ? Color.appPrimary : Color.clear)
+                        .overlay(
+                            RoundedRectangle(cornerRadius: 20)
+                                .stroke(Color.appPrimary, lineWidth: isSelected ? 0 : 1.5)
                         )
                 )
-                .overlay(
-                    RoundedRectangle(cornerRadius: 22)
-                        .stroke(isSelected ? Color.clear : Color.appPrimary.opacity(0.2), lineWidth: 1)
-                )
-                .scaleEffect(isSelected ? 1.05 : 1.0)
-                .animation(.easeInOut(duration: 0.2), value: isSelected)
+                .scaleEffect(isSelected ? 1.02 : 1.0)
+                .animation(.spring(response: 0.3, dampingFraction: 0.7), value: isSelected)
         }
         .buttonStyle(PlainButtonStyle())
     }
@@ -665,3 +638,4 @@ struct CommentsView: View {
     FeedView()
         .environmentObject(AppViewModel())
 }
+

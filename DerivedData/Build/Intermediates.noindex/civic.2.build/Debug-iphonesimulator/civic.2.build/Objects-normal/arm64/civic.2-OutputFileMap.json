@@ -1,0 +1,468 @@
+{
+  "" : {
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/civic.2-master.dia",
+    "emit-module-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/civic.2-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/civic.2-master-emit-module.dia",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/civic.2-master.swiftdeps"
+  },
+  "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Assets/AppIcon.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIcon.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIcon.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIcon.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIcon.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIcon.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIcon.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIcon.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIcon~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/ContentView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Extensions/Color+Extensions.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Color+Extensions.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Color+Extensions.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Color+Extensions.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Color+Extensions.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Color+Extensions.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Color+Extensions.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Color+Extensions.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Color+Extensions~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Models/Ad.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Ad.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Ad.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Ad.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Ad.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Ad.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Ad.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Ad.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Ad~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Models/AdminModels.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminModels.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminModels.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminModels.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminModels.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminModels.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminModels.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminModels.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminModels~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Models/LiveStream.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveStream.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveStream.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveStream.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveStream.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveStream.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveStream.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveStream.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveStream~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Models/Messaging.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Messaging.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Messaging.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Messaging.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Messaging.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Messaging.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Messaging.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Messaging.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Messaging~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Models/Notification.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Notification~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Models/Poll.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Poll~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Models/Post.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Post.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Post.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Post.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Post.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Post.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Post.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Post.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Post~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Models/Rating.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Rating.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Rating.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Rating.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Rating.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Rating.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Rating.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Rating.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Rating~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Models/Recommendation.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Recommendation.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Recommendation.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Recommendation.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Recommendation.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Recommendation.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Recommendation.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Recommendation.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Recommendation~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Models/Theme.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Theme.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Theme.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Theme.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/Theme~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Models/User.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/User.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/User.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/User.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/User.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/User.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/User.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/User.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/User~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Services/AdminService.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminService.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminService.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminService.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminService.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminService.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminService.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminService.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AdminService~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/ViewModels/AppViewModel.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppViewModel.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppViewModel.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppViewModel.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppViewModel.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppViewModel.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppViewModel.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppViewModel.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppViewModel~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/ViewModels/FeedViewModel.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedViewModel~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/ViewModels/HomeViewModel.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeViewModel.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeViewModel.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeViewModel.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeViewModel.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeViewModel.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeViewModel.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeViewModel.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeViewModel~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/ViewModels/LiveViewModel.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveViewModel.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveViewModel.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveViewModel.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveViewModel.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveViewModel.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveViewModel.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveViewModel.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveViewModel~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/ViewModels/MessagingViewModel.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingViewModel.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingViewModel.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingViewModel.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingViewModel.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingViewModel.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingViewModel.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingViewModel.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingViewModel~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/ViewModels/RecommendationsViewModel.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsViewModel~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/ViewModels/SearchViewModel.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchViewModel.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchViewModel.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchViewModel.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchViewModel.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchViewModel.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchViewModel.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchViewModel.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchViewModel~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Authentication/AuthenticationView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AuthenticationView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AuthenticationView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AuthenticationView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AuthenticationView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AuthenticationView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AuthenticationView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AuthenticationView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AuthenticationView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Components/AppIconView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIconView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIconView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIconView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIconView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIconView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIconView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIconView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/AppIconView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Components/CivicButton.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicButton.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicButton.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicButton.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicButton.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicButton.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicButton.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicButton.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicButton~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Components/CivicCard.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicCard.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicCard.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicCard.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicCard.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicCard.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicCard.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicCard.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicCard~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Components/CivicTextField.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicTextField.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicTextField.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicTextField.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicTextField.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicTextField.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicTextField.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicTextField.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/CivicTextField~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Components/ThemeToggleButton.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeToggleButton~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Dashboard/GovernmentDashboardView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GovernmentDashboardView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GovernmentDashboardView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GovernmentDashboardView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GovernmentDashboardView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GovernmentDashboardView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GovernmentDashboardView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GovernmentDashboardView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/GovernmentDashboardView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Feed/FeedView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/FeedView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Feed/NewPostView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NewPostView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NewPostView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NewPostView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NewPostView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NewPostView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NewPostView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NewPostView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NewPostView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Live/LiveView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/LiveView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Main/HomeView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Main/MainTabView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MainTabView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MainTabView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MainTabView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MainTabView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MainTabView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MainTabView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MainTabView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MainTabView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Messaging/MessagingView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/MessagingView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Notifications/NotificationsView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/NotificationsView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Onboarding/OnboardingView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/OnboardingView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/OnboardingView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/OnboardingView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/OnboardingView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/OnboardingView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/OnboardingView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/OnboardingView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/OnboardingView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Polls/PollsView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/PollsView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/PollsView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/PollsView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/PollsView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/PollsView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/PollsView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/PollsView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/PollsView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Profile/ProfileView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ProfileView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Rating/RatingView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RatingView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Recommendations/RecommendationsView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/RecommendationsView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Search/SearchView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SearchView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Settings/ThemeSettingsView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/ThemeSettingsView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/Views/Splash/SplashView.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SplashView.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SplashView.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SplashView.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SplashView.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SplashView.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SplashView.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SplashView.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/SplashView~partial.swiftmodule"
+  },
+  "/Users/calebotchere/Desktop/civic.2/civic.2/civic_2App.swift" : {
+    "const-values" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/civic_2App.swiftconstvalues",
+    "dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/civic_2App.d",
+    "diagnostics" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/civic_2App.dia",
+    "index-unit-output-path" : "/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/civic_2App.o",
+    "llvm-bc" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/civic_2App.bc",
+    "object" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/civic_2App.o",
+    "swift-dependencies" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/civic_2App.swiftdeps",
+    "swiftmodule" : "/Users/calebotchere/Desktop/civic.2/DerivedData/Build/Intermediates.noindex/civic.2.build/Debug-iphonesimulator/civic.2.build/Objects-normal/arm64/civic_2App~partial.swiftmodule"
+  }
+}
