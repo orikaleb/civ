@@ -411,7 +411,7 @@ struct QuickActionsSection: View {
                     }
                     
                     QuickActionRow(
-                        icon: "ballot.box.fill",
+                        icon: "chart.bar.fill",
                         title: "View Active Polls",
                         subtitle: "Participate in community decisions",
                         color: .green,

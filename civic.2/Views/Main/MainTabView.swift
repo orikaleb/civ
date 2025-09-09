@@ -46,7 +46,7 @@ struct MainTabView: View {
                 
                 PollsView()
                     .tabItem {
-                        Image(systemName: "ballot.box.fill")
+                        Image(systemName: "chart.bar.fill")
                         Text("Polls")
                     }
                     .transition(.asymmetric(

@@ -4,7 +4,6 @@ struct MessagingView: View {
     @StateObject private var viewModel = MessagingViewModel()
     @EnvironmentObject var appViewModel: AppViewModel
     @State private var showingNewChat = false
-    @State private var showingNotifications = false
     
     var body: some View {
         VStack(spacing: 0) {
@@ -33,20 +32,6 @@ struct MessagingView: View {
             } else {
                 // Messages header
                 HStack {
-                    Button(action: {
-                        showingNotifications = true
-                    }) {
-                        Image(systemName: "bell.fill")
-                            .font(.title2)
-                            .foregroundColor(Color.appPrimary)
-                    }
-                    
-                    Spacer()
-                    
-                    Text("Messages")
-                        .font(.largeTitle)
-                        .fontWeight(.bold)
-                    
                     Spacer()
                     
                     Button(action: {
@@ -73,9 +58,6 @@ struct MessagingView: View {
         }
         .navigationTitle("Messages")
         .navigationBarTitleDisplayMode(.large)
-        .navigationDestination(isPresented: $showingNotifications) {
-            NotificationsView()
-        }
         .background(Color.dynamicBackground(for: appViewModel.themeMode))
     }
 }

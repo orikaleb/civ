@@ -74,7 +74,7 @@ struct PollsSection: View {
     
     var body: some View {
         VStack(alignment: .leading, spacing: 16) {
-            SectionHeader(title: "Active Polls", icon: "ballot.box.fill")
+            SectionHeader(title: "Active Polls", icon: "chart.bar.fill")
             
             ForEach(polls.prefix(2)) { poll in
                 NavigationLink(destination: PollDetailView(poll: poll)) {

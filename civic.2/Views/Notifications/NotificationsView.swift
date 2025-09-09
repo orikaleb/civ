@@ -2,47 +2,27 @@ import SwiftUI
 
 struct NotificationsView: View {
     @StateObject private var viewModel = NotificationsViewModel()
-    @Environment(\.dismiss) private var dismiss
     @EnvironmentObject var appViewModel: AppViewModel
     
     var body: some View {
-        VStack(spacing: 0) {
-            // Header with back button and title
-            HStack {
-                Button("Back") {
-                    dismiss()
-                }
-                
-                Spacer()
-                
-                Text("Notifications")
-                    .font(.largeTitle)
-                    .fontWeight(.bold)
-                
-                Spacer()
-            }
-            .padding(.horizontal, 16)
-            .padding(.vertical, 12)
-            .background(Color.dynamicBackground(for: appViewModel.themeMode))
-            
-            // Notifications content
-            ScrollView {
-                LazyVStack(spacing: 0) {
-                    ForEach(viewModel.notifications) { notification in
-                        NotificationCell(notification: notification) {
-                            viewModel.markAsRead(notification)
-                        }
-                        .padding(.horizontal, 16)
-                        .padding(.vertical, 4)
+        ScrollView {
+            LazyVStack(spacing: 0) {
+                ForEach(viewModel.notifications) { notification in
+                    NotificationCell(notification: notification) {
+                        viewModel.markAsRead(notification)
                     }
+                    .padding(.horizontal, 16)
+                    .padding(.vertical, 4)
                 }
-                .padding(.top, 8)
             }
-            .refreshable {
-                viewModel.refreshNotifications()
-            }
+            .padding(.top, 8)
+        }
+        .refreshable {
+            viewModel.refreshNotifications()
         }
         .background(Color.dynamicBackground(for: appViewModel.themeMode))
+        .navigationTitle("Notifications")
+        .navigationBarTitleDisplayMode(.large)
     }
 }
 
