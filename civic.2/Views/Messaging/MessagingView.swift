@@ -72,6 +72,13 @@ struct ChatsListView: View {
                 ChatRow(chat: chat) {
                     viewModel.selectChat(chat)
                 }
+                .swipeActions(edge: .trailing, allowsFullSwipe: false) {
+                    Button(role: .destructive) {
+                        viewModel.deleteChat(chat)
+                    } label: {
+                        Label("Delete", systemImage: "trash")
+                    }
+                }
             }
         }
         .listStyle(PlainListStyle())

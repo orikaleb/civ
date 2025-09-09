@@ -66,6 +66,19 @@ class MessagingViewModel: ObservableObject {
         // In a real app, this would send the message to the server
     }
     
+    func deleteChat(_ chat: Chat) {
+        // Remove from chats array
+        chats.removeAll { $0.id == chat.id }
+        
+        // If the deleted chat was currently selected, clear the current chat
+        if currentChat?.id == chat.id {
+            currentChat = nil
+            messages = []
+        }
+        
+        // In a real app, this would also delete the chat from the server
+    }
+    
     func createNewChat(with userIds: [String], isGroup: Bool = false, groupName: String? = nil) {
         let chat = Chat(
             participants: userIds,
